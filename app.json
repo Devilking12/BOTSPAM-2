@@ -1,7 +1,7 @@
 {
-    "name": "LegendSpam",
-    "description": "Spamming Bot Made By LegendBoy @LegendBoy_OP",
-    "logo": "https://te.legra.ph/file/315ec5fe03f2a612139b3.jpg",
+    "name": "HACKERSpam",
+    "description": "Spamming Bot Made By OP HACKER @Legend_of_all_groups",
+    "logo": "https://te.legra.ph/file/6fea7b5a1f1fb72bf623b.jpg",
     "keywords": [
         "telegram",
         "pyrogram",
@@ -10,8 +10,8 @@
         "Botspam"
     ],
     "repository": "https://github.com/LEGEND-AI/BOTSPAM",
-    "website": "https://t.me/LegendBot_Owner",
-    "success_url": "https://t.me/LegendBot_Owner",
+    "website": "https://t.me/O_P_Hacker",
+    "success_url": "https://t.me/O_P_Hacker",
     "env": {       
         "ENV": {
             "description": "dont edit this",
