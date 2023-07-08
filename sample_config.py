@@ -41,13 +41,13 @@ except Exception:
 
 START_MESSAGE = getenv("START_MESSAGE", None)
 
-PING_PIC = getenv("PING_PIC", None)
+PING_PIC = getenv("PING_PIC", "https://te.legra.ph/file/d106519f324f3309b23eb.jpg")
 
-START_PIC = getenv("START_PIC", None)
+START_PIC = getenv("START_PIC", "https://te.legra.ph/file/d106519f324f3309b23eb.jpg")
 
 
 HELP_MSG = getenv("HELP_MSG", None)
 HELP_PIC = getenv("HELP_PIC", "https://te.legra.ph/file/6fea7b5a1f1fb72bf623b.jpg")
-LOG_CHANNEL = getenv("LOG_CHANNEL", None)
+LOG_CHANNEL = getenv("LOG_CHANNEL", "https://t.me/O_P_Hacker")
 
 HANDLER = getenv("HANDLER", "/")
