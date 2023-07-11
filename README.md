@@ -1,6 +1,6 @@
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=LEGEND-AI&repo=BOTSPAM&theme=lite)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Devilking12&repo=BOTSPAM-2&theme=lite)
 
-[![LEGENDBOTSPAM](https://graph.org/file/f27216b482b57e0c3f2f5.jpg)](https://github.com/LEGEND-AI/BOTSPAM)
+[![LEGENDBOTSPAM](https://graph.org/file/f27216b482b57e0c3f2f5.jpg)](https://github.com/Devilking12/BOTSPAM-2)
 
 <h1 align="center">
 <b> 『ẞø†Spâm』 </b>
@@ -21,15 +21,14 @@
 
 ## Status Of Bot 
 <p align="left">
-<a href="https://github.com/LEGEND-AI/BOTSPAM/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/BOTSPAM?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/BOTSPAM?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM?"></a>
-  
+<a href="https://github.com/Devilking12/BOTSPAM-2/network/members">
 -------
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/LegendBotSpam)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/friendship_hub_group)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/LegendBot_AI)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/eng_hindi_chat_group)
  
 -------
 
@@ -204,7 +203,7 @@ python3 start.py
 </details>
 
 
-> Made with 💕 by [@TeamLegendXD](https://t.me/TeamLegendXD).    
+> Made with 💕 by [@TeamNobita](https://t.me/Mr_selfish_person).    
 
 
 
