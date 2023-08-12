@@ -2,9 +2,9 @@ from os import getenv
 
 from decouple import config
 
-APP_ID = getenv("APP_ID", "16942102")
+APP_ID = getenv("APP_ID", "26004438")
 
-API_HASH = getenv("API_HASH", "eb72f958fd9dbad872a9ff1836ad96e6")
+API_HASH = getenv("API_HASH", "3e2c25e18eaf263bdcdf69c0c0e62d59")
 
 HEROKU_APP_NAME = config("HEROKU_APP_NAME", None)
 HEROKU_API_KEY = config("HEROKU_API_KEY", None)
@@ -43,11 +43,11 @@ START_MESSAGE = getenv("START_MESSAGE", None)
 
 PING_PIC = getenv("PING_PIC", "https://te.legra.ph/file/d106519f324f3309b23eb.jpg")
 
-START_PIC = getenv("START_PIC", "https://te.legra.ph/file/d106519f324f3309b23eb.jpg")
+START_PIC = getenv("START_PIC", "https://te.legra.ph/file/ad264a21ca7c87c9ff348.png")
 
 
 HELP_MSG = getenv("HELP_MSG", None)
-HELP_PIC = getenv("HELP_PIC", "https://te.legra.ph/file/6fea7b5a1f1fb72bf623b.jpg")
-LOG_CHANNEL = getenv("LOG_CHANNEL", "https://t.me/O_P_Hacker")
+HELP_PIC = getenv("HELP_PIC", "https://te.legra.ph/file/519b763f18148844fcc18.png")
+LOG_CHANNEL = getenv("LOG_CHANNEL", "https://t.me/official_mr_king")
 
 HANDLER = getenv("HANDLER", "/")
