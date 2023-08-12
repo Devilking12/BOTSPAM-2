@@ -1,1 +1,1 @@
-worker: python3 -m nobitaboy
+worker: python3 -m legendboy
